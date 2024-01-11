@@ -1,6 +1,8 @@
 {
   "scripts": {
-    "start": "vite"
+    "start": "vite",
+    "predeploy": "yarn run start",
+    "deploy" : "gh-pages -d build"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.16",
@@ -8,6 +10,7 @@
     "tailwindcss": "^3.4.1",
     "vite": "^4.5.1"
   },
+ 
   "dependencies": {
     "feather": "^0.0.5"
   }
