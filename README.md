@@ -12,8 +12,10 @@ Welcome to the Razorpay Clone Project! This project aims to replicate the functi
 
 
 ## Demo
+![localhost_5175_](https://github.com/Mayank-Sisodiya19/Razorpay-Clone-Project/assets/80584242/fc311717-67c7-4675-a91d-68cd3b86c755)
 
 Check out the live demo of the project [here]().
+
 
 ## Features
 
